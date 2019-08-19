@@ -14,7 +14,7 @@ int main() {
 	if(A!= 0 && B!=0){
 		media = (A+B)/2.0;
 		
-		printf("Media: %4.f", media);
+		printf("Media: %f", media);
 	}
 	else{
 		printf("Digite dois numeros diferentes de 0\n");
